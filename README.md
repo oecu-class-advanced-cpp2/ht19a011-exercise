@@ -1,2 +1,3 @@
 kome
 rice
+hakumai
